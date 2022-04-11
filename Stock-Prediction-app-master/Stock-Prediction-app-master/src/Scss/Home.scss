@@ -1,0 +1,19 @@
+.home_title{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 8.5em;
+    line-height: 1.3em;
+    width: 1em;
+    margin-left: 0.5em;
+    user-select: none;
+}
+
+.home_canvas{
+    width: 50em;
+    height: 100vh;
+    background-color: #2F3542;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
